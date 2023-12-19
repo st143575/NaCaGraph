@@ -1,4 +1,4 @@
-The event extraction pipeline of this project.
+# The event extraction pipeline of this project.
 
 This directory contains following contents:
 
