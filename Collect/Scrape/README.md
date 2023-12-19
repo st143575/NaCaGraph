@@ -1,4 +1,4 @@
-The Collect part of the project.
+# The Collect part of the project.
 
 This directory contains following contents:
 
