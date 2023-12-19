@@ -1,4 +1,4 @@
-The Access part of the project.
+# The Access part of the project.
 
 This directory contains the following contents:
 
@@ -29,7 +29,7 @@ This directory contains the following contents:
 - README.txt: This file.
 
 
-Usage:
+# Usage:
 - Create Graph:
 	Option 1: run Create_Graph.py.
 	Option 2: $NEO4J_HOME> bin/neo4j-admin load --from=[PATH]/Access/NaCaGraph.db.dump --database=graph.db --force
