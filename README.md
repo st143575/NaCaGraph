@@ -1,4 +1,9 @@
-This directory contains following contents:
+# NaCaGraph: Visualizing Event Graph for Natural Catastrophes from News Articles
+Text Technology SS2023.
+
+Chong Shen, Li Lin, Xiru Tong
+
+# This directory contains following contents:
 
 - main.py: The main code file for running the whole project. 
            By defult event extraction part is skipped because it should take several hours. Uncomment the corresponding codes to run it instead.
@@ -17,9 +22,9 @@ This directory contains following contents:
 - README.txt: This file.
 
 
-⭕More details on how to run the whole project:
-STEP1: Change directory to Collect/Scrape/input_urls, open urls.txt
-STEP2: Paste the wikinews website links, one link per line. The existing urls can be used as examples.
+# How to run the whole project:
+- STEP1: Change directory to Collect/Scrape/input_urls, open urls.txt
+- STEP2: Paste the wikinews website links, one link per line. The existing urls can be used as examples.
 (Using the sample urls is recommended. If you want to analyze the news with the topic beyond the existing ones, please uncomment the codes of event extraction in the main.py)
-STEP3: Run main.py to get XML files.
-STEP4: The subsequent steps are explained in README.txt in Access.
+- STEP3: Run main.py to get XML files.
+- STEP4: The subsequent steps are explained in README.txt in Access.
