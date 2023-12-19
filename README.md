@@ -1,7 +1,7 @@
 # NaCaGraph: Visualizing Event Graph for Natural Catastrophes from News Articles
 Text Technology SS2023.
 
-Chong Shen, Li Lin, Xiru Tong
+Li Lin, Chong Shen, Xiru Tong
 
 # This directory contains following contents:
 
